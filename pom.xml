@@ -30,6 +30,7 @@
         <module>registry</module>
         <module>dashboard</module>
         <module>config</module>
+        <module>auth</module>
         <module>customer</module>
         <module>merchant</module>
         <module>payback</module>
